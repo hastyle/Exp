@@ -599,7 +599,7 @@
 
 #blog .blog-container .blog-wrapper .post-container .featured-image {
   height: 300px;
-  background: url("assets/imgs/post2.png") center center no-repeat;
+  background: url("../assets/imgs/post2.png") center center no-repeat;
   position: relative;
   transition: all 0.3s ease-in-out;
   overflow: hidden;
